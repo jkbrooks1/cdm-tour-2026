@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "Date": null,
+    "Tour Day": 1,
+    "Ride Day": 1,
+    "From": "Bordeaux",
+    "To": "La R?ole",
+    "Miles": 38.8,
+    "Elevation Gain (ft)": 2635,
+    "Lunch Town": "Ugine",
+    "Lunch Mile Post": 19.4,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  },
+  {
+    "Date": null,
+    "Tour Day": 2,
+    "Ride Day": 2,
+    "From": "La R?ole",
+    "To": "Aiguillon",
+    "Miles": 30.4,
+    "Elevation Gain (ft)": 1476,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  },
+  {
+    "Date": null,
+    "Tour Day": 3,
+    "Ride Day": 3,
+    "From": "Aiguillon",
+    "To": "Moissac",
+    "Miles": 43.6,
+    "Elevation Gain (ft)": 1614,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  },
+  {
+    "Date": null,
+    "Tour Day": 4,
+    "Ride Day": 4,
+    "From": "Moissac",
+    "To": "Toulouse",
+    "Miles": 41.2,
+    "Elevation Gain (ft)": 1155,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  },
+  {
+    "Date": null,
+    "Tour Day": 5,
+    "Ride Day": "REST",
+    "From": "Toulouse",
+    "To": "Toulouse",
+    "Miles": null,
+    "Elevation Gain (ft)": null,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": null
+  },
+  {
+    "Date": null,
+    "Tour Day": 6,
+    "Ride Day": 5,
+    "From": "Toulouse",
+    "To": "Castelnaudry",
+    "Miles": 34.9,
+    "Elevation Gain (ft)": 1319,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  },
+  {
+    "Date": null,
+    "Tour Day": 7,
+    "Ride Day": 6,
+    "From": "Castelnaudry",
+    "To": "Carcassonne",
+    "Miles": 23.6,
+    "Elevation Gain (ft)": 712,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  },
+  {
+    "Date": null,
+    "Tour Day": 8,
+    "Ride Day": 7,
+    "From": "Carcassonne",
+    "To": "Capestang",
+    "Miles": 35.7,
+    "Elevation Gain (ft)": 1244,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  },
+  {
+    "Date": null,
+    "Tour Day": 9,
+    "Ride Day": 8,
+    "From": "Capestang",
+    "To": "S?te",
+    "Miles": 39.4,
+    "Elevation Gain (ft)": 1507,
+    "Lunch Town": null,
+    "Lunch Mile Post": null,
+    "RWGPS Link": "https://ridewithgps.com/routes/[YOUR_ROUTE_ID]"
+  }
+]
